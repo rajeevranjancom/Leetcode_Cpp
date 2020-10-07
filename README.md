@@ -20,8 +20,8 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines (CppCoreGuidelines)
 
 
 ## Table
-|  #  |      Title      |     Solution    |    Difficulty   | Tag  |
-|-----|---------------- | --------------- | --------------- | -----|-------------------------- |
+|  #  |      Title      |     Solution    |    Difficulty   |
+|-----|---------------- | --------------- | --------------- |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/rajeev-ranjan-au6/Leetcode_Cpp/blob/master/001.%20Two%20Sum.cpp) | Easy | Array / Hash Table | 
 |  2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](https://github.com/rajeev-ranjan-au6/Leetcode_Cpp/commit/f31040c21ad123fb3b37083aa7e98995e907f71d) | Medium | Linked List | 
 |  3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](https://github.com/rajeev-ranjan-au6/Leetcode_Cpp/commit/9446716c351be6c1713658762dd22fb5d6dc71b8) | Medium | Hash Table / Two Pointers | 
