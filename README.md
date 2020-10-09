@@ -24,7 +24,7 @@
 | Developer: ISO/IEC JTC1 (Joint Technical Committee 1) / SC22 (Subcommittee 22) / WG21 (Working Group 21) |
 
 
-## Table
+## Table:
 
 |  #  |      Title      |     Solution    |    Difficulty   | Tag  |
 |-----|---------------- | --------------- | --------------- | -----|
