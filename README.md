@@ -1,22 +1,23 @@
 # LeetCode ![solution](https://img.shields.io/badge/solution-accepted-green.svg) ![language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)
-# Cp-Practice
-This All about c++ codes 
-https://www.w3schools.com/cpp/ (Learn From here)
+# Cp-Practice@Rajeev Ranjan
+
+|         Websites         |
+|--------------------------|
+
+| https://www.w3schools.com/cpp/ (Learn From here) |
+| https://devdocs.io/cpp/ (C++ API documentation) |
+| https://docs.microsoft.com/en-us/cpp/?view=vs-2019 (Microsoft C++, C, and Assembler documentation) |
+| https://docs.microsoft.com/en-us/cpp/cpp/?view=vs-2019 (C++ language documentation by microsoft) |
+| http://www.cplusplus.com/doc/ (c++ Tutorials) |
+| https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines (CppCoreGuidelines) |
 
 C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
-
 Preview release: C++20
 Stable release: C++17 (ISO/IEC 14882:2017) / 1 December 2017; 2 years ago
 Typing discipline: Static, nominative, partially inferred
 Designed by: Bjarne Stroustrup
 Filename extensions: C,.cc,.cpp,.cxx,.c++,.h,.hh,.hpp,.hxx,.h++
 Developer: ISO/IEC JTC1 (Joint Technical Committee 1) / SC22 (Subcommittee 22) / WG21 (Working Group 21)
-
-https://devdocs.io/cpp/ (C++ API documentation)
-https://docs.microsoft.com/en-us/cpp/?view=vs-2019 (Microsoft C++, C, and Assembler documentation)
-https://docs.microsoft.com/en-us/cpp/cpp/?view=vs-2019 (C++ language documentation by microsoft)
-http://www.cplusplus.com/doc/ (c++ Tutorials)
-https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines (CppCoreGuidelines)
 
 
 ## Table
