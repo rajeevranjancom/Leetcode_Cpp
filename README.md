@@ -2,8 +2,6 @@
 # Cp-Practice@Rajeev Ranjan
 
 |         Websites         |
-|--------------------------|
-
 | https://www.w3schools.com/cpp/ (Learn From here) |
 | https://devdocs.io/cpp/ (C++ API documentation) |
 | https://docs.microsoft.com/en-us/cpp/?view=vs-2019 (Microsoft C++, C, and Assembler documentation) |
