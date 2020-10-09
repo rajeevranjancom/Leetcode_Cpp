@@ -1,5 +1,6 @@
 # LeetCode ![solution](https://img.shields.io/badge/solution-accepted-green.svg) ![language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)
 # Cp-Practice@Rajeev Ranjan
+## Links: 
 
 |      Websites |
 |---------------|
@@ -9,6 +10,8 @@
 | https://docs.microsoft.com/en-us/cpp/cpp/?view=vs-2019 (C++ language documentation by microsoft) |
 | http://www.cplusplus.com/doc/ (c++ Tutorials) |
 | https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines (CppCoreGuidelines) |
+
+## Notes:
 
 |      Important |
 |--------------- |
@@ -22,6 +25,7 @@
 
 
 ## Table
+
 |  #  |      Title      |     Solution    |    Difficulty   | Tag  |
 |-----|---------------- | --------------- | --------------- | -----|
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/rajeev-ranjan-au6/Leetcode_Cpp/blob/master/001.%20Two%20Sum.cpp) | Easy | Array / Hash Table |
